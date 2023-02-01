@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/plantuml-editor/static/css/main.706d59c4.css",
-    "main.js": "/plantuml-editor/static/js/main.e0347137.js",
+    "main.css": "/plantuml-editor/static/css/main.1e077ca1.css",
+    "main.js": "/plantuml-editor/static/js/main.cc8368b7.js",
     "index.html": "/plantuml-editor/index.html",
-    "main.706d59c4.css.map": "/plantuml-editor/static/css/main.706d59c4.css.map",
-    "main.e0347137.js.map": "/plantuml-editor/static/js/main.e0347137.js.map"
+    "main.1e077ca1.css.map": "/plantuml-editor/static/css/main.1e077ca1.css.map",
+    "main.cc8368b7.js.map": "/plantuml-editor/static/js/main.cc8368b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.706d59c4.css",
-    "static/js/main.e0347137.js"
+    "static/css/main.1e077ca1.css",
+    "static/js/main.cc8368b7.js"
   ]
 }
