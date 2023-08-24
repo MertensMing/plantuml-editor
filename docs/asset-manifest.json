@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/plantuml-editor/static/css/main.6deeb394.css",
-    "main.js": "/plantuml-editor/static/js/main.ef7158ca.js",
-    "static/js/51.636d8d20.chunk.js": "/plantuml-editor/static/js/51.636d8d20.chunk.js",
+    "main.js": "/plantuml-editor/static/js/main.cebf8684.js",
+    "static/js/51.64c4de51.chunk.js": "/plantuml-editor/static/js/51.64c4de51.chunk.js",
     "static/js/990.ac638199.chunk.js": "/plantuml-editor/static/js/990.ac638199.chunk.js",
     "static/js/98.f9910376.chunk.js": "/plantuml-editor/static/js/98.f9910376.chunk.js",
     "static/js/141.19f7a5c9.chunk.js": "/plantuml-editor/static/js/141.19f7a5c9.chunk.js",
@@ -18,8 +18,8 @@
     "static/js/773.d4cac477.chunk.js": "/plantuml-editor/static/js/773.d4cac477.chunk.js",
     "index.html": "/plantuml-editor/index.html",
     "main.6deeb394.css.map": "/plantuml-editor/static/css/main.6deeb394.css.map",
-    "main.ef7158ca.js.map": "/plantuml-editor/static/js/main.ef7158ca.js.map",
-    "51.636d8d20.chunk.js.map": "/plantuml-editor/static/js/51.636d8d20.chunk.js.map",
+    "main.cebf8684.js.map": "/plantuml-editor/static/js/main.cebf8684.js.map",
+    "51.64c4de51.chunk.js.map": "/plantuml-editor/static/js/51.64c4de51.chunk.js.map",
     "990.ac638199.chunk.js.map": "/plantuml-editor/static/js/990.ac638199.chunk.js.map",
     "98.f9910376.chunk.js.map": "/plantuml-editor/static/js/98.f9910376.chunk.js.map",
     "141.19f7a5c9.chunk.js.map": "/plantuml-editor/static/js/141.19f7a5c9.chunk.js.map",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.6deeb394.css",
-    "static/js/main.ef7158ca.js"
+    "static/js/main.cebf8684.js"
   ]
 }
